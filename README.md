@@ -84,20 +84,11 @@ Hi! I’m a **Mechatronics Engineering Graduate** from Ontario Tech University w
 | ESP32, STM32, UART, I2C       | Scikit-learn, pandas, NumPy      | ROS, OpenCV, SLAM, PID           | Fusion 360, SolidWorks, Ansys        | Flask, Firebase, WebSerial         |
 | Arduino Mega, PWM, Sensors    | Linear/CNN/SVM Models            | PD Controller, Navigation        | 3D printing & post-processing        | AsyncWebServer, VS Code            |
 
-
----
-
-### 📫 Let’s Connect
-
-- 🌐 [Portfolio Website](https://pranavbanga.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/pranavbanga1)
----
+ ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavbanga1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavbanga1&theme=tokyonight&hide_border=true" />
+  <a href="https://pranavbanga.netlify.app" target="_blank">🌐 Portfolio Website</a> • 
+  <a href="https://linkedin.com/in/pranavbanga1" target="_blank">💼 LinkedIn</a>
 </p>
-
-
 <p align="center">
   🚧 Always Building. Forever Curious. Open to Collabs!
 </p>
