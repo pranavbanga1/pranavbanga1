@@ -28,23 +28,14 @@ Hi! I’m a **Mechatronics Engineering Graduate** from Ontario Tech University w
 
 ---
 </p>
-<details>
-  <summary>🛻 <strong>Autonomous Terrain Navigation Robot</strong></summary>
-  <br>
-  Monocular vision + real-time cone detection + ROS nav stack = fully autonomous path planning.
 
-  🔗 **[View Project](https://github.com/pranavbanga1/Autonomous-Terrain-Navigation)**
-</details>
-
-
-<details>
+  <details>
   <summary>🔋 <strong>EcoCharge – IoT Battery Health Dashboard</strong></summary>
   <br>
   RX/TX pipeline from Arduino to ESP32, live sensor parsing, real-time dashboard over WiFi!
 
-  🔗 **[View Project](https://github.com/pranavbanga1/EcoCharge-BMS)**
+  🔗 **[View Project](https://github.com/pranavbanga1/EcoCharge)**
 </details>
-
 
 <details>
   <summary>🌞 <strong>Dual-Axis Solar Tracker</strong></summary>
@@ -53,6 +44,15 @@ Hi! I’m a **Mechatronics Engineering Graduate** from Ontario Tech University w
 
   🔗 **[View Project](https://github.com/pranavbanga1/Solar-Tracker)**
 </details>
+
+<details>
+  <summary>🛻 <strong>Autonomous Terrain Navigation Robot</strong></summary>
+  <br>
+  “Ultrasonic Precision. PD Control. Terrain Mastered.”
+
+  🔗 **[View Project](https://github.com/pranavbanga1/Autonomous-Terrain-Navigation)**
+</details>
+
 
 <details>
   <summary>🧠 <strong>AI/ML Projects (Custom Models)</strong></summary>
@@ -78,7 +78,6 @@ Hi! I’m a **Mechatronics Engineering Graduate** from Ontario Tech University w
 ---
 
 ### 🧠 Technical Toolkit
-### 🧠 Technical Toolkit
 
 | 🔌 **Embedded Systems**        | 🧠 **AI & ML**                    | 🤖 **Robotics & Control**        | 🛠️ **CAD & Simulation**              | ☁️ **Web & Cloud**                  |
 |-------------------------------|----------------------------------|----------------------------------|--------------------------------------|------------------------------------|
@@ -92,11 +91,12 @@ Hi! I’m a **Mechatronics Engineering Graduate** from Ontario Tech University w
 
 - 🌐 [Portfolio Website](https://pranavbanga.netlify.app)
 - 💼 [LinkedIn](https://linkedin.com/in/pranavbanga1)
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranavbanga1&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavbanga1&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 <p align="center">
   🚧 Always Building. Forever Curious. Open to Collabs!
