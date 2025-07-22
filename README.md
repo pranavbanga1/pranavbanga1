@@ -1,70 +1,82 @@
-<!-- Banner -->
+<h1 align="center">Hey there, I'm Pranav Banga 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there,%20I'm%20Pranav%20Banga!&fontSize=40&fontAlignY=35&animation=fadeIn" alt="header"/>
-</p>
-
-<!-- Introduction -->
-<h2 align="center">🚀 Embedded Systems | Robotics | IoT | ML</h2>
-<p align="center">
-  <a href="https://pranavbanga.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/pranav-banga-a3756b200/">🔗 LinkedIn</a>
+  🎓 Mechatronics Engineer | 🤖 Robotics Dev | 🧠 ML Explorer | 🧱 CAD & 3D Printing Enthusiast  
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧭 About Me
 
-- 🎓 Engineering student passionate about embedded systems and robotics.
-- 🤖 Developer of an autonomous terrain-navigating robot for package delivery.
-- 🌞 Creator of an Arduino-based solar tracker using LDR sensors.
-- 🧪 Experimenting with AI and ML models for real-world applications.
+Hi! I’m a **Mechatronics Engineering Graduate** from Ontario Tech University with a passion for building **intelligent systems that move and think**. From coding AI to wiring sensors, from CAD sketches to 3D prints — I bring ideas to life.
 
----
-
-### 🛠️ Technologies & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- 🔩 Love hands-on prototyping, automation, and system integration.
+- 🛠️ Mastery in embedded systems, robotics, and ML deployment.
+- 📦 Frequently working with: `ESP32`, `ROS`, `Fusion 360`, `SolidWorks`, `Python`, `C++`, `3D printers`.
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Featured Projects
+
+#### 🛻 Autonomous Terrain Navigation Robot
+> Monocular vision + real-time cone detection + ROS nav stack = fully autonomous path planning.
+
+🔗 [View Project](https://github.com/pranavbanga1/Autonomous-Terrain-Navigation)
+
+<img src="https://raw.githubusercontent.com/pranavbanga1/Autonomous-Terrain-Navigation/main/assets/terrain.gif" width="100%"/>
+
+---
+
+#### 🔋 EcoCharge – IoT Battery Health Dashboard
+> RX/TX pipeline from Arduino to ESP32, live sensor parsing, real-time dashboard over WiFi!
+
+🔗 [View Project](https://github.com/pranavbanga1/EcoCharge-BMS)
+
+<img src="https://raw.githubusercontent.com/pranavbanga1/EcoCharge-BMS/main/assets/dashboard_mobile.png" width="100%"/>
+
+---
+
+#### 🌞 Dual-Axis Solar Tracker
+> Servo-powered sun tracker with LDR feedback and dynamic alignment.
+
+🔗 [View Project](https://github.com/pranavbanga1/Solar-Tracker)
+
+---
+
+#### 🧠 AI/ML Projects (Custom Models)
+> Scratch-coded ML models (regression, classification, prediction) with clean documentation & outputs.
+
+🔗 [View Project](https://github.com/pranavbanga1/AI-ML-Model)
+
+---
+
+#### 🧱 CAD & 3D Printing Builds
+> From mechanical designs to printable prototypes — I've designed brackets, mounts, gears, and more!
+
+- Designed & printed a **NEMA motor-driven telescope mount** 🪐  
+- Built **robotic arms**, **enclosures**, and **test rigs** from scratch  
+- Tools I use: `Fusion 360`, `SolidWorks`, `Ender 3`, `PrusaSlicer`
+
+🔗 [Banga Creations – 3D Services](https://github.com/pranavbanga1/Banga-Creations)
+
+---
+
+### 🧠 Technical Toolkit
+
+| Embedded Systems | AI & ML | Robotics & Control | CAD & Simulation | Web & Cloud |
+|------------------|--------|--------------------|------------------|-------------|
+| ESP32, STM32, UART, I2C | Scikit-learn, pandas, NumPy | ROS, OpenCV, SLAM, PID | Fusion 360, SolidWorks, Ansys | Flask, Firebase, WebSerial |
+| Arduino Mega, PWM, Sensors | Linear/CNN/SVM Models | PD Controller, Navigation | 3D printing & post-processing | AsyncWebServer, VS Code |
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 [Portfolio Website](https://pranavbanga.netlify.app)
+- 💼 [LinkedIn](https://linkedin.com/in/pranavbanga1)
+- 📷 [Instagram 3DP Work](#) *(optional if public)*
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavbanga1&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbanga1&theme=radical" alt="Pranav's GitHub Streak" />
-</p>
-
----
-
-### 🔥 Projects Showcase
-
-- **[Autonomous-Terrain-Navigation](https://github.com/pranavbanga1/Autonomous-Terrain-Navigation)**  
-  *An autonomous robot designed for package delivery in a two-story office setup, equipped with IR and ultrasonic sensors, and a servo-driven gripper.*
-
-- **[Solar-Tracker](https://github.com/pranavbanga1/Solar-Tracker)**  
-  *An Arduino-based solar tracker utilizing LDR sensors to maximize solar panel efficiency.*
-
-- **[AI-ML-Models](https://github.com/pranavbanga1/AI-ML-Models)**  
-  *A collection of machine learning models applied to various real-world scenarios.*
-
----
-
-### 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranav-banga-a3756b200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://pranavbanga.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
+  🚧 Always Building. Forever Curious. Open to Collabs!
 </p>
